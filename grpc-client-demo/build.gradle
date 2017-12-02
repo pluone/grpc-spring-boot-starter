@@ -1,0 +1,6 @@
+dependencies {
+    compile('org.springframework.cloud:spring-cloud-starter-eureka')
+    compile project(":grpc-spring-boot-starter-demo")
+    compile 'org.springframework.boot:spring-boot-starter-web'
+    compile project(':grpc-spring-boot-starter')
+}

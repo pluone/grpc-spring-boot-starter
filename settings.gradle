@@ -1,4 +1,6 @@
 //rootProject.name = 'org.lognet'
 include 'grpc-spring-boot-starter'
 include 'grpc-spring-boot-starter-demo'
+include 'grpc-server-demo'
+include 'grpc-client-demo'
 
